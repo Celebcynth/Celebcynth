@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Celebcynth
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a team
 - 📫 How to reach me via www.linkedin.com/in/cynthia-nkang-189935141
 
